@@ -77,9 +77,9 @@
 | 14. Feb. 2019  |           |
 | 21. Feb. 2019  |           | **Semester Break (*Semesterferien*)**
 | 28. Feb. 2019  |           |
-| 07. Mar. 2019  |           |
-| 14. Mar. 2019  |           |
-| 21. Mar. 2019  |           |
+| 07. Mar. 2019  |Reißner K. | What is a CDN and why is is useful for web development?
+| 14. Mar. 2019  |Wegerer P. | Artemis by Andy Weir or What is Material Design for Android?
+| 21. Mar. 2019  |Wansch S.  | What is Electron and why is it interesting for mobile developers?
 | 28. Mar. 2019  |           |
 | 04. Apr. 2019  |           |
 | 11. Apr. 2019  |           | **Written Exam**
